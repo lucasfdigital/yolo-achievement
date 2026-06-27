@@ -8,3 +8,7 @@ Este PR foi mergeado sem code review para conquistar o achievement YOLO do GitHu
 ## Achievement Pull Shark
 
 Segundo PR para conquistar o Pull Shark! 🦈
+
+## Achievement Pair Extraordinaire
+
+PR com co-autoria para conquistar o Pair Extraordinaire! 🤝
