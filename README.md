@@ -1,5 +1,9 @@
 
 
+## Pull Shark - PR #6
+
+PR #6 - mais um merge para o badge!
+
 ## Pull Shark - PR #5
 
 PR #5 avancando no Pull Shark badge!
