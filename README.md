@@ -11,6 +11,10 @@ Segundo PR para conquistar o Pull Shark! 🦈
 
 ## Achievement Pair Extraordinaire
 
+## Pull Shark - PR #3
+
+PR #3 acumulando merges para o Pull Shark! 🦈
+
 PR com co-autoria para conquistar o Pair Extraordinaire! 🤝
 
 
