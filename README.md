@@ -18,3 +18,8 @@ PR com co-autoria para conquistar o Pair Extraordinaire! 🤝
 
 Este PR foi criado para conquistar o achievement Pull Shark! 🦈
 Cada merge conta para o progresso do badge.
+
+## Pull Shark - PR #2
+
+Segundo PR para consolidar o achievement Pull Shark! 🦈
+Com 2 PRs mergeados o badge é conquistado.
