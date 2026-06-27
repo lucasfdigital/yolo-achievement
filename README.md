@@ -1,5 +1,9 @@
 
 
+## Pull Shark - PR #8
+
+PR #8 - chegando ao nivel x2 do Pull Shark!
+
 ## Pull Shark - PR #7
 
 PR #7 - continuando a jornada Pull Shark!
