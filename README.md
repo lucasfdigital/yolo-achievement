@@ -1,5 +1,9 @@
 
 
+## Pull Shark - PR #7
+
+PR #7 - continuando a jornada Pull Shark!
+
 ## Pull Shark - PR #6
 
 PR #6 - mais um merge para o badge!
